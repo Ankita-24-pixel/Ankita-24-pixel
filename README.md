@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on<br>A 2nd student at SGSITS college<br>Improving data structure and algorithms (JAVA)<br>Working to enhance development skills<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly Open-Source projects<br>React or MERN stack projects<br>AI-based student projects<br><br>⚡ Fun fact<br>I believe consistency beats talent 🚀
+🔭 I’m currently working on<br>A 2nd year student at SGSITS college, Indore<br>Improving data structure and algorithms (JAVA)<br>Working to enhance development skills<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly Open-Source projects<br>React or MERN stack projects<br>AI-based student projects<br><br>⚡ Fun fact<br>I believe consistency beats talent 🚀
 
 
 ## 🌐 Socials:
